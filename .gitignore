@@ -1,5 +1,6 @@
 /workspaces/data-engineering-zoomcamp/01-docker-terraform/terraformdemo
 /workspaces/data-engineering-zoomcamp/01-docker-terraform/terraformdemo/keys
+/workspaces/data-engineering-zoomcamp/01-docker-terraform/terraformdemo/main.tf
 terrademo-credits.json
 test.json
 *.parquet
