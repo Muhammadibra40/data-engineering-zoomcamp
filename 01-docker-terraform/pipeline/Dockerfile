@@ -1,13 +1,13 @@
 # Start with slim Python 3.13 image for smaller size
 FROM python:3.13.11-slim
 
-# Copy uv binary from official uv image
+# Copy uv binary from official uv image to make uv available on docker image
 COPY --from=ghcr.io/astral-sh/uv:latest /uv /bin/
 
 # Set working directory inside container
 WORKDIR /app
 
-# Add virtual environment to PATH
+# Add virtual environment to PATH to use installed packages
 ENV PATH="/app/.venv/bin:$PATH"
 
 # Copy dependency files first (better caching)
