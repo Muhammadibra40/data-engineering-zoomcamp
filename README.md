@@ -4,10 +4,10 @@ This repository contains my work and homework for the **Data Engineering Zoomcam
 
 ## Modules
 
-- 📁 **[01-docker-terraform](./01-docker-terraform)**  
+- **[01-docker-terraform](./01-docker-terraform)**  
   Docker, PostgreSQL, SQL basics, and Terraform fundamentals.
 
-- 📁 **[02-workflow-orchestration](./02-workflow-orchestration)**  
+- **[02-workflow-orchestration](./02-workflow-orchestration)**  
   Workflow orchestration concepts and tools.
 
 ## Notes
