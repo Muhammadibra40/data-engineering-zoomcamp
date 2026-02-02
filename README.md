@@ -1,6 +1,6 @@
 # Data Engineering Zoomcamp
 
-This repository contains my work and homework for the **Data Engineering Zoomcamp** by DataTalksClub.
+This repository contains my work and homework for the **Data Engineering Zoomcamp** by **[DataTalksClub](https://github.com/DataTalksClub)**.
 
 ## Modules
 
@@ -14,6 +14,5 @@ This repository contains my work and homework for the **Data Engineering Zoomcam
 
 Each module folder contains:
 - Homework solutions
-- SQL queries and notebooks
+- SQL queries, Scripts and notebooks
 - Supporting configuration files
-
