@@ -215,7 +215,7 @@ def NYC_Taxi_Data_Pipeline_with_params_V2():
         
         print(f"Loading compressed file {data_path} into {staging_table}")
         
-        # Specify only the columns that exist in the CSV (exclude unique_row_id and filename)
+        # Specifying only the columns that exist in the CSV
         if taxi_color == "yellow":
             columns = """(
                 VendorID,tpep_pickup_datetime,tpep_dropoff_datetime,passenger_count,trip_distance,
