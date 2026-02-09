@@ -5,6 +5,7 @@ terrademo-credits.json
 test.json
 *.parquet
 02-workflow-orchestration/airflow/dags/files/*.csv.gz
+.env*
 
 # Local .terraform directories
 .terraform/
