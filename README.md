@@ -5,14 +5,17 @@ This repository contains my work and homework for the **Data Engineering Zoomcam
 ## Modules
 
 - **[01-docker-terraform](./01-docker-terraform)**  
-  Docker, PostgreSQL, SQL basics, and Terraform fundamentals.
+  Docker fundamentals, PostgreSQL, SQL basics, and infrastructure provisioning with Terraform.
 
 - **[02-workflow-orchestration](./02-workflow-orchestration)**  
-  Workflow orchestration concepts and tools.
+  Workflow orchestration concepts and data pipelines using Airflow.
+
+- **[03-data-warehouse](./03-data-warehouse)**  
+  Data warehousing and analytics using BigQuery.
 
 ## Notes
 
 Each module folder contains:
 - Homework solutions
-- SQL queries, Scripts and notebooks
-- Supporting configuration files
+- SQL queries and ingestion scripts
+- Supporting configuration files and examples
